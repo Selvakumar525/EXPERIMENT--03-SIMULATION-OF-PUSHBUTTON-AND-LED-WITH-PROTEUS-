@@ -71,7 +71,8 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 
 ## STM 32 CUBE PROGRAM :
-```python
+```
+python
 Created by:Selva kumar A
 reg no:212222110042
 #include "main.h"
@@ -159,7 +160,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 }
 #endif
-~~~
+```
 
 
 ## Output screen shots of proteus  :
